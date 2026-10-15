@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Abstract KrakenTic mark">
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a1ffee"/><stop offset="1" stop-color="#46afa9"/></linearGradient>
+  </defs>
+  <path d="M50 10 82 29v42L50 90 18 71V29L50 10Z" fill="#0b232a" stroke="url(#sea)" stroke-width="2.2" />
+  <path d="M30 33v29m5-15 22-17m-21 23 22 18" stroke="url(#sea)" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <path d="M60 28c-2 10-9 13-12 18m15 24c-9-2-15-8-17-15" fill="none" stroke="#73dcd3" stroke-width="3.2" stroke-linecap="round" opacity=".95" />
+  <circle cx="61" cy="27" r="3" fill="#9bffeb"/><circle cx="64" cy="70" r="3" fill="#9bffeb"/>
+</svg>
